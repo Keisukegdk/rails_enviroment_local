@@ -80,6 +80,10 @@ mysql.server stop
 .. SUCCESS! 
 
 
+## rails projectを作成する
+```
+bundle exec rails new hogehoge -d mysql
+```
 
 
 
