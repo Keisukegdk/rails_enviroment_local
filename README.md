@@ -67,7 +67,7 @@ brew install mysql
 mysql.server start
 ```
 
-> Starting MySQL
+> Starting MySQL</br>
 . SUCCESS! 
 
 
