@@ -70,6 +70,17 @@ mysql.server start
 > Starting MySQL</br>
 . SUCCESS! 
 
+## mysqlを止める
+
+```
+mysql.server stop
+```
+
+> Shutting down MySQL</br>
+.. SUCCESS! 
+
+
+
 
 
 ## 参照
