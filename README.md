@@ -55,6 +55,14 @@ bundle -v
 > Bundler version 2.0.2
 
 
+## mysqlのインストール
+
+```
+brew install mysql
+```
+
+
+
 
 
 ## 参照
