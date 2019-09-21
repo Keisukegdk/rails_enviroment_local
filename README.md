@@ -49,8 +49,11 @@ gem install bundler
 インストールしたbundlerを確認
 
 ```
-bundler -v
+bundle -v
 ```
+
+> Bundler version 2.0.2
+
 
 
 
