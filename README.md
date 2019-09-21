@@ -1,7 +1,7 @@
 # rails_enviroment_local
 
 
-## `.bash_profile`の設定
+## .bash_profileの設定
 
 ```
 echo 'export PATH="~/.rbenv/shims:/usr/local/bin:$PATH"' >> ~/.bash_profile
@@ -61,7 +61,14 @@ bundle -v
 brew install mysql
 ```
 
+## mysqlの起動確認
 
+```
+mysql.server start
+```
+
+> Starting MySQL
+. SUCCESS! 
 
 
 
