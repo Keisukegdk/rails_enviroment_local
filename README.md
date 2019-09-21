@@ -40,6 +40,18 @@ rbenv rehash
 ruby -vtuby
 ```
 
+## bundlerをインストール
+
+```
+gem install bundler
+```
+
+インストールしたbundlerを確認
+
+```
+bundler -v
+```
+
 
 
 ## 参照
